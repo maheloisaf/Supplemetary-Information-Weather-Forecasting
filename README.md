@@ -1,3 +1,3 @@
-Supplementary information about the paper "Quantum Machine Learning for Weather Forecasting". Authors: Maria Heloísa F. da Silva, Gleydson F. de Jesus, Christiano M. S. Nascimento, Valéria L. da Silva, Clebson S. Cruz.
+Supplementary information about the paper "Exploring Quantum Machine Learning for Weather Forecasting". Authors: Maria Heloísa F. da Silva, Gleydson F. de Jesus, Christiano M. S. Nascimento, Valéria L. da Silva, Clebson S. Cruz.
 
 Code based on [Ogur, Besir, and Ihsan Yilmaz. "The effect of superposition and entanglement on hybrid quantum machine learning for weather forecasting." Quantum Inf. Comput. 23.3&4 (2023): 181-194.] for QNNs and [Ekman, Magnus. Learning deep learning: Theory and practice of neural networks, computer vision, natural language processing, and transformers using TensorFlow. Addison-Wesley Professional, 2021] for RNNs, with Datasets from NASA POWER. 
